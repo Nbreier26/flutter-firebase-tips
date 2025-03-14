@@ -1,0 +1,1 @@
+ /home/nbreier/Documents/Projects/Faculdade/Flutter/Aula2_Flutter_2025/.dart_tool/flutter_build/4209c14db3c23700fc060c31b4952704/native_assets.json: 
